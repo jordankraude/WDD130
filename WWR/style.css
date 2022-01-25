@@ -1,0 +1,52 @@
+
+#content {max-width: 1600px;
+          margin: 0 auto;}
+
+nav a {text-align: center;
+color: black;
+text-decoration: none;}
+
+#hero-msg h1, #hero-msg h4 {text-align: center;}
+#hero-img {width: 100%}
+
+.button-box {text-align: center;}
+
+main section {text-align: center;}
+
+#background {height: 725px;}
+
+body {background-color: cadetblue;}
+
+header {background-color: beige;}
+
+nav a:hover {background-color: cadetblue; 
+            color: beige;}
+
+.book, .join {background-color: khaki; color: cadetblue;
+text-decoration: none;}
+
+.book:hover, .join:hover {background-color: cadetblue; color: khaki;}
+
+#background {background-color: beige;}
+
+.msg {background-color: cadetblue;}
+
+footer {background-color: beige;}
+
+.home-title {color: khaki;}
+
+h4 {color: beige;}
+
+.msg h2 {color: khaki;}
+.msg p {color: beige;}
+
+footer h3 {color: khaki;}
+
+footer a {color: beige;
+text-decoration: none;}
+
+footer a:hover {color: cadetblue;}
+
+.logo {width: 80px;}
+
+footer h3 a:hover {text-decoration: underline;}
